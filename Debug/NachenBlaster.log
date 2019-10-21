@@ -1,0 +1,8 @@
+﻿  Actor.cpp
+c:\users\kyji_\onedrive - personalmicrosoftsoftware.ucla.edu\ucla\cs\32\homework\project 3\nachenblaster\nachenblaster\actor.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kyji_\onedrive - personalmicrosoftsoftware.ucla.edu\ucla\cs\32\homework\project 3\nachenblaster\nachenblaster\actor.cpp(396): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kyji_\onedrive - personalmicrosoftsoftware.ucla.edu\ucla\cs\32\homework\project 3\nachenblaster\nachenblaster\actor.cpp(519): warning C4018: '<=': signed/unsigned mismatch
+c:\users\kyji_\onedrive - personalmicrosoftsoftware.ucla.edu\ucla\cs\32\homework\project 3\nachenblaster\nachenblaster\actor.cpp(595): warning C4018: '<=': signed/unsigned mismatch
+c:\users\kyji_\onedrive - personalmicrosoftsoftware.ucla.edu\ucla\cs\32\homework\project 3\nachenblaster\nachenblaster\actor.cpp(601): warning C4018: '<=': signed/unsigned mismatch
+c:\users\kyji_\onedrive - personalmicrosoftsoftware.ucla.edu\ucla\cs\32\homework\project 3\nachenblaster\nachenblaster\actor.cpp(665): warning C4018: '<=': signed/unsigned mismatch
+  NachenBlaster.vcxproj -> C:\Users\kyji_\OneDrive - personalmicrosoftsoftware.ucla.edu\UCLA\CS\32\Homework\Project 3\NachenBlaster\Debug\NachenBlaster.exe
